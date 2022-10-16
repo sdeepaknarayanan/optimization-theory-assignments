@@ -1,3 +1,3 @@
-# Optimization for Data Science - Spring Semester 22 Graded Assignments
+### Optimization for Data Science - Spring Semester 22 Graded Assignments
 
 
